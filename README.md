@@ -1,2 +1,5 @@
 # hello-world
-Just anthor repository
+
+Hi everybody
+
+I am learning how to use GitHub.
